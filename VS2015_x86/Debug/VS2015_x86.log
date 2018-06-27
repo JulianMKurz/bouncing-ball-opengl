@@ -1,0 +1,7 @@
+﻿  Graphics.cpp
+  Shapes.cpp
+  Source.cpp
+c:\users\julian\documents\gamesprogrammingobjects\bouncing ball\vs2015_x86\source.cpp(52): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\julian\documents\gamesprogrammingobjects\bouncing ball\vs2015_x86\source.cpp(53): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  VS2015_x86.vcxproj -> C:\Users\Julian\Documents\GamesProgrammingObjects\Bouncing Ball\Debug\VS2015_x86.exe
